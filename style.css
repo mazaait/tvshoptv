@@ -151,11 +151,21 @@ section {
     
 }
 
-.info h3{
+.info h3 {
     color: #0a49f6;
     font-size: 1.2em;
     font-weight: 700;
     margin: 10px;
     
+}
+
+.info a{
+    color: #0a49f6;
+    font-size: 1.2em;
+    font-weight: 700;
+    margin: 10px;
+    align-content: none;
+
+
 }
 
